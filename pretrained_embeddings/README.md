@@ -1,0 +1,1 @@
+Download embeddings from [Google Drive](https://drive.google.com/drive/folders/1v_1-awD9RfyUw_JdZWQ4h4x8K4jY-GvZ?usp=sharing)
